@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#wrapper {
+    margin: 0px auto;
+    width: 900px;
+}
+
+#leftnav {
+    float: left;
+    width: 176px;
+    margin-right: 10px;
+}
+
+#rightnav {
+   float: right;
+   width: 120px;
+   margin-left: 10px;
+}
+
+#content {
+   float: left;
+   width: 50%;
+   text-align:center
+}

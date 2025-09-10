@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Schoenemann research</title>
+<!-- TemplateEndEditable -->
+<link href="../thrColFixHdr.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.container .content h3 {
+	color: #F00;
+}
+.container .content h4 {
+	color: #F00;
+}
+.container .content h5 {
+	color: #F00;
+}
+.container .footer p {
+	color: #CCC;
+	text-align: center;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="Optionalimage1" type="boolean" value="true" -->
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header"><!-- end .header -->
+    <p>&nbsp;</p>
+    <h3>P. Thomas Schoenemann, Ph.D.</h3>
+    <p>&nbsp;</p>
+      <ul class="solidblockmenu">
+<li><a href="../index.html">Home</a></li>
+<li><a href="../research.html"class="current">Research</a></li>
+<li><a href="../publications.html" >Publications</a></li>
+<li><a href="../lab.html">Lab</a></li>
+<li><a href="../teaching.html">Teaching</a></li>
+</ul>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p></p>
+  </div>
+  
+  <div class="widecolumntext">
+  <div class="fltlft"><!-- TemplateBeginIf cond="Optionalimage1" --><img src="../media/hominin-cranial-capacity-evol.019.jpg" width="187" height="140" alt="evolution of human cranial capacity" /><!-- TemplateEndIf --></div>
+  <!-- TemplateBeginEditable name="Text" -->
+  <p>The focus of my interests are  on the  evolution of human behavior. I study this partly by assessing the particular ways in which our brain has changed over our evolutionary history. This can be inferred both through comparative studies of the brains of other species, as well as by studies of the braincases of our fossil ancestors. Interpreting these changes behaviorally requires knowing about how brains mediate behavior, which in turn involves studying brain structure/function in modern humans and (when possible) that of other animals. Language is one human behavior that has played a particularly important role in our evolutionary history, and is likely part of a broader trend towards increasing sociality in our species. The ways in which these behaviors may have evolved, and their likely co-evolution with our brain, constitute a major focus of my research.</p>
+  <!-- TemplateEndEditable -->
+  <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    <div class="fltlft"><img src="../media/midsag-mri-176px.jpg" width="173" height="140" alt="brain MRI" /> 
+  </div>
+  <p>One research direction has therefore been to study brain/behavior associations, typically using high resolution MRI to measure neuroanatomical variability in various ways, and then looking for possible correlations with various neurospsychological, linguistic, and general behavioral (e.g., &quot;sociality&quot;) tasks that either appear to, or are thought to have important evolutionary significance for humans. In collaboration with Dr. James Gee and Dr. Brian Avant (U. Penn) we have been using morphometric registration algorithms  to quantify variability in anatomy on a voxel-by-voxel basis (sometimes called &quot;voxel-based morphometry&quot;).  This research sits at the intersection of neuroanatomy and cognitive psychology, informed by an evolutionary biological perspective.  Allied with this is are projects attempting to determine brain activity during stone tool manufacturing, to better understand what, if anything, the evolution of stone tool manufacturing tells us about our cognitive evolution, such as language.</p>
+  <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <div class="fltlft"><img src="../media/chimp-humanmorph.gif" width="204" height="140" alt="chimp-&gt;human morph" /> 
+  </div>
+<p>Another research direction as been focused on trying to understand the quantitative differences in brain anatomy between humans and other primates. The goal of this is to better  understand exactly what changed in our brains during hominin evolution.  This work has involved image processing of MRI's of an array of primates and humans.  I have also done research on the scaling relationships of brain size with various components of body mass across mammals.  In addition to the work with MRI, Dr. Ralph Holloway, Dr. Janet Monge, and Dr. James Gee and I have been comparing endocast morphology of extant human and ape skulls, again using voxel-based registration methods.  </p>
+<p>&nbsp;</p>
+      <p>&nbsp;</p>
+    <div class="fltlft"><img src="../media/endocast-verification.png" width="202" height="140" alt="endocast validity test" /> 
+  </div>
+<p>Recently we have begun investigating possible relationships across primates between endocranial morphology and various interesting behavioral attributes, such as social group size, number of vocalizations, degree of tool use, and so forth. To the extent that parts of the endocranial surface does correlate differently with these behaviors, it will strengthen our behavioral interpretations of fossil specimens.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+      <p>&nbsp;</p>
+    <div class="fltlft"><img src="../media/3D-CT-of-skull-morton-ORSA.gif" width="135" height="140" alt="CT of human skull" /> 
+  </div>
+<p>As part of our work on endocranial morphology, Dr. Janet Monge and I developed the <a href="http://www.indiana.edu/~orsa/">Open Research Scan Archive (ORSA)</a>, in which we CT scanned over 4,000  human and primate crania and postcrania and made these freely accessible for research worldwide.  Scan data from ORSA have been used on a significant number of research projects (see the ORSA website for examples).</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+      <p>Another line of research has been  attempting to model aspects of cognitive evolution using agent-based computer simulations.  The focus here has been on the evolution of language, specifically the interplay between semantic and syntactic evolution, as well as the fossil anatomical evidence relevant to the origin and evolution of language.  The goal is to determine if language universals are the result of functional constraints, rather than evolved, innate, species-specific, dedicated brain modules (which I have argued is not evolutionarily likely).</p>
+      <p>&nbsp;</p>
+      <p>Publications relevant to these topics can be found <a href="../publications.html">here</a>.  Further details of my research can be found on my <a href="../lab.html">Human Brain Evolution Lab</a> website.</p>
+  
+  </div>
+  
+  <div class="footer">
+    <p>&nbsp;</p>
+    
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p></p>
+  <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>

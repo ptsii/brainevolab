@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+		background-image:url(img/cn.jpg);
+}
+#menu li{
+	text-indent:1em;
+}
+p{
+	font-family: Arial,Helvetica,sans-serif;
+}
+#googlemap{
+	width: 600px;
+	height: 400px;
+	overflow: hidden;
+	margin-left:65px;
+}
+#dituContent{
+	width: 600px;
+	height: 400px;
+	overflow: hidden;
+	margin-left:45px;
+}
+.ls{
+	text-indent:4em;
+}

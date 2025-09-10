@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+	background-image: url(../img/en.jpg);
+}
+#googlemap{
+	width: 600px;
+	height: 400px;
+	overflow: hidden;
+	margin-left:65px;
+}

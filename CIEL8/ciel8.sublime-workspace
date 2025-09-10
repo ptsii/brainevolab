@@ -1,0 +1,468 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jsp",
+				"jspsych-breath-control-stimulus"
+			],
+			[
+				"js",
+				"jspsych-breath-control-stimulus"
+			],
+			[
+				"butt",
+				"buttonPress"
+			],
+			[
+				"event",
+				"eventLength"
+			],
+			[
+				"sum",
+				"sum_user_detected_under"
+			],
+			[
+				"un",
+				"under_by"
+			],
+			[
+				"over",
+				"over_by"
+			],
+			[
+				"average",
+				"average_inhale"
+			],
+			[
+				"consol",
+				"console_data"
+			],
+			[
+				"log",
+				"log_data_to_console"
+			],
+			[
+				"under",
+				"under_shot"
+			],
+			[
+				"sum_",
+				"sum_user_detected_over"
+			],
+			[
+				"end",
+				"endText"
+			],
+			[
+				"pre",
+				"pre_iText"
+			],
+			[
+				"total",
+				"total_user_detected_over_trials______________"
+			],
+			[
+				"user",
+				"user_detected_under"
+			],
+			[
+				"user_",
+				"user_detected_over"
+			],
+			[
+				"sum_user",
+				"sum_user_detected_under"
+			],
+			[
+				"test",
+				"testing_duration"
+			],
+			[
+				"clickIn",
+				"clickIntervalTotal"
+			],
+			[
+				"data",
+				"dataTrial"
+			],
+			[
+				"sum_under",
+				"sum_under_shot"
+			],
+			[
+				"sum_over",
+				"sum_over_run"
+			],
+			[
+				"exha",
+				"exhaleText"
+			],
+			[
+				"moused",
+				"mousedownTime"
+			],
+			[
+				"mouseup",
+				"mouseupTime"
+			],
+			[
+				"mouse",
+				"mousedownTime"
+			],
+			[
+				"click",
+				"clickIntervalTotal"
+			],
+			[
+				"eve",
+				"eventLength"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 500.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown Extended"
+			]
+		],
+		"width": 581.0
+	},
+	"console":
+	{
+		"height": 260.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/css"
+	],
+	"file_history":
+	[
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/css/main.css",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/home.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_home.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/css/cn.css",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/css/en.css",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/accommodation.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_accommodation.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/keynote.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_contact_us.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/contact_us.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_submissions.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/submissions.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_program.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/program.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_workshops.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/workshops.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_bloomington.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/bloomington.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_sponsors.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/sponsors.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_keynote.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_call_for_papers.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/call_for_papers.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/registration.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_registration.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/photos.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_photos.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese_latest_news.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/chinese/home.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/Related_Papers.html",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Evolution of Language/ciel8/latest_news.html",
+		"/C/Users/snordli/Desktop/Gibtest back to last sentence Indicate anytime_smaller script Backup1.es2",
+		"/C/Users/snordli/Desktop/Gibtest back to last sentence Indicate anytime_smaller script Backup1 Backup1.es2",
+		"/C/Users/snordli/Desktop/Gibtest back to last sentence Indicate anytime_smaller script.es2",
+		"/C/Users/snordli/Desktop/Gibtest back to last sentence Indicate anytime_smaller script.ebs2",
+		"/C/Users/snordli/Desktop/Gibtest back to last sentence Indicate anytime_smaller script Backup1.wndpos",
+		"/C/Users/snordli/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-text.js",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Modeling Evolutionary Systems/Python/Nordli_Q700_A1.py",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-single-stim.js",
+		"/C/Users/snordli/Dropbox/Indiana/2015-2016/Fall 2015/Modeling Evolutionary Systems/Python/Eduardo-a1.py",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/breath_counting.sublime-project",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/tests&examples/jspsych-single-stim.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z Guided_TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z_Breath_Training_TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z Spire_TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z Breath_Control_TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z_Breath_Control_TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z_Breath_Training.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/save_data.php",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z Breath_Training.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-breath-guided-master.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-breath-guided-intro-master.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-breath.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-breath-master.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z Breath_Training_TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/OFFLINE_Breath_Training_TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/OFFLINE_Breath_Training.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-breath-guided-intro.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/a Guided_TEST_MASTER.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/a Breath_Training_TEST_MASTER.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/a Breath_Training_MASTER.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z Breath_Training(2).html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z Guided_intro_TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-breaks-likert.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/likert_problems.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-survey-TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/tests&examples/jspsych-survey-text.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/tests&examples/jspsych-survey-likert.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/aa Breath_Training.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z Attention Training TEST_MASTER.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/OFFLINE Attention Training.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/OFFLINE Attention Training TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/z Attention Training MASTER.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/a Guided_TEST_WORKING.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/guided TEST WORKING.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-breath-guided.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/ONLINE Attention Training TEST.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/ONLINE Attention Training.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/ONLINE Attention Training TEST_MASTER.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/Attention Training.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-attention.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-attention-edit.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-editmouse-record.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-mouse-recordWTF.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-mouse-record.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/Attention Training TEST RUN.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-mouse-record.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-mouse-record3whitespace.html",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-mouse-record-edit.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/jspsych-4.3/plugins/jspsych-attention-mouse.js",
+		"/C/Users/snordli/Dropbox/Indiana/X_Research/js-experiments/experiment.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/js/jspsych-mouse-record3.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/js/jspsych-4.3/tests&examples/jspsych-mouse-record3.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/experiment.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jspsych-4.2/plugins/jspsych-single-stim.js",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jspsych-4.2/plugins/jspsych-mouse-record.js",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jspsych-mouse-record2.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jspsych-mouse-record.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jspsych-4.2/plugins/jspsych-attention.js",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jspsych-4.3/tests&examples/jspsych-mouse-record3.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/Attention Training TEST RUN.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/Attention Training.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jspsych-4.2/plugins/jspsych-multi-stim-multi-response.js",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jspsych-4.2/plugins/jspsych-html.js",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jspsych-4.2/plugins/jspsych-call-function.js",
+		"/C/Users/snordli/Desktop/bc15.es",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/annotated experiment example.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jsPsych custom plugin template",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jspsych-4.2/plugins/jspsych-animation.js",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/Awareness Online welcome screen.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jsPsych Exp example.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/Base annotated experiment code.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Meditation Experiment/jsPsych Exp annotated example.html",
+		"/C/Users/snordli/Dropbox/Indiana/X Research/jsPsych Experiment Example/jsPsych Exp example.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Xiamen",
+			"6th",
+			"../",
+			"LEARNING",
+			"summarized_data",
+			"LEARNING_summarized_data",
+			"datSumm",
+			".summarized_data",
+			"data.",
+			".summarized_data",
+			"pre",
+			"post_test",
+			"pre",
+			"pre_test",
+			"z_",
+			"4.2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Indiana",
+			"8th",
+			"",
+			"L",
+			"sData",
+			"sLearnData",
+			"sData",
+			".datSumm",
+			"data.summarized.",
+			"data.summary.",
+			"",
+			"post",
+			"pre",
+			"post_test_",
+			"4.3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ciel8.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
