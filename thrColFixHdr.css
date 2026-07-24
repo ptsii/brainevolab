@@ -26,7 +26,13 @@ p {
     padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
     margin-bottom: 0px;
     text-align: left;
-    color: #FF0000;
+    color: white;
+}
+.centered {
+    text-align: center;
+}
+.large {
+    font-size: 24px;
 }
 a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
 	border: none;
